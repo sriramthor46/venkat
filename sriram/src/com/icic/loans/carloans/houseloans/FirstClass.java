@@ -5,8 +5,8 @@ import java.io.FileInputStream;
 public class FirstClass {
 	public void add()
 {
-	int a ,b,c;
-	c=a+b;
+	int a ,b,d;
+	d=a+b;
 	
 }
 
