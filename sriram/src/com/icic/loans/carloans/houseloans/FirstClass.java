@@ -6,7 +6,8 @@ public class FirstClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("this is my first program");
+System.out.println("this is my first program  ");
+System.out.println("adding line");
 	}
 
 }
